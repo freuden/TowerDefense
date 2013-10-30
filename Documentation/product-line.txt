@@ -1,0 +1,42 @@
+Our product line consists of the following products which have the features listed in the attached feature diagram. The list of different products used to generate that diagram follows:
+
+Castle Defense
+- usable spells
+- player versus player
+- summon your own enemies
+- shared features
+                - enemies
+                - upgrades
+                - towers
+Radiant Defense
+                -unconstrained tower placement
+                - online scoring
+                - constant enemy stream
+                -shared features
+                                -enemies
+                                -towers
+                                -upgrades
+Missile Defense
+                -constant enemies
+                -protect only towers
+                - shared features
+                                -towers
+                                -upgrades
+                                -enemies
+Reverse Tower Defense
+                -player spawns “enemies”
+                -uncontrolled, unfriendly towers
+                -shared features
+                                -upgrades
+                                -towers
+                                -enemies
+Mobile Online Battle Arena
+                -player versus player
+                -player controlled “Champion” 
+                -towers and enemies controlled by AI
+                -shared features
+                                -towers
+                                -enemies
+
+Thanks,
+Dana Freudenberger, Dylan Pruitt, Nitin Sachdeva
